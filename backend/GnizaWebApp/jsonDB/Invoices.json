@@ -1,0 +1,32 @@
+[
+  {
+    "InvoiceId": "1",
+    "Date": null,
+    "Status": "wow",
+    "Amount": 6
+  },
+  {
+    "InvoiceId": "2",
+    "Date": "21/21",
+    "Status": "7869",
+    "Amount": "288888"
+  },
+  {
+    "InvoiceId": "3",
+    "Date": "20/20",
+    "Status": "7869",
+    "Amount": "25"
+  },
+  {
+    "InvoiceId": 4,
+    "Date": null,
+    "Status": "wow2",
+    "Amount": 68
+  },
+  {
+    "InvoiceId": 5,
+    "Date": null,
+    "Status": "wow2",
+    "Amount": 68
+  }
+]
